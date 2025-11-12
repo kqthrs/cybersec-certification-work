@@ -57,3 +57,6 @@ The following high-priority, multi-domain control recommendations were proposed 
 * **Controls Design:** Evaluating and recommending **Administrative, Technical, and Physical** control types (Preventative, Detective, Corrective).  
 * **Security Documentation:** Generating professional, stakeholder-ready audit reports and remediation plans.  
 * **Data Classification:** Understanding and applying principles of PII and SPII protection.
+
+### **Note**
+* **The main assessment file, along with all the additional files mentioned inside it, are included in this GitHub repo.

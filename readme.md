@@ -6,24 +6,23 @@
 
 ## 📊 Progress Tracker
 
-**Course Completion: 3/9 (33%)**
+**Course Completion: 6/9 (67%)**
 
 | Course | Status | Key Deliverables |
 |--------|--------|------------------|
 | 1. Foundations of Cybersecurity | ✅ Completed | Security frameworks overview |
 | 2. Play It Safe: Manage Security Risks | ✅ Completed | Risk assessment documentation |
 | 3. Connect and Protect: Networks and Network Security | ✅ Completed | Network analysis, security hardening |
-| 4. Tools of the Trade: Linux and SQL | 🔄 In Progress | - |
-| 5. Assets, Threats, and Vulnerabilities | ⏳ Upcoming | - |
-| 6. Sound the Alarm: Detection and Response | ⏳ Upcoming | - |
-| 7. Automate Cybersecurity Tasks with Python | ⏳ Upcoming | - |
+| 4. Tools of the Trade: Linux and SQL | ✅ Completed | Command-line operations, database queries |
+| 5. Assets, Threats, and Vulnerabilities | ✅ Completed | Vulnerability assessments, threat modeling |
+| 6. Sound the Alarm: Detection and Response | ✅ Completed | Incident detection, response documentation |
+| 7. Automate Cybersecurity Tasks with Python | 🔄 In Progress | - |
 | 8. Put It to Work: Prepare for Cybersecurity Jobs | ⏳ Upcoming | - |
 | 9. Capstone Project | ⏳ Upcoming | - |
 
 ---
 
 ## 📁 Repository Structure
-
 ```
 cybersec-foundations-portfolio/
 ├── course-01-foundations/
@@ -33,7 +32,11 @@ cybersec-foundations-portfolio/
 ├── course-03-networks/
 │   └── [Network diagrams, hardening guides, protocol analysis]
 ├── course-04-linux-sql/
-│   └── [Coming soon]
+│   └── [Linux commands, SQL queries, system administration]
+├── course-05-assets-threats/
+│   └── [Vulnerability assessments, threat analysis, asset management]
+├── course-06-detection-response/
+│   └── [Incident response plans, detection strategies, alert analysis]
 └── README.md
 ```
 
@@ -55,6 +58,21 @@ cybersec-foundations-portfolio/
 - **Protocol Analysis Documentation**: TCP/IP, DNS, and HTTP/S security considerations
 - **Skills**: Network architecture, firewall configuration, intrusion detection concepts
 
+### Course 4: Linux and SQL
+- **Linux Command Documentation**: System administration and security operations via command line
+- **SQL Security Queries**: Database investigation and log analysis using SQL
+- **Skills**: Linux file permissions, user management, SQL filtering and joins
+
+### Course 5: Assets, Threats, and Vulnerabilities
+- **Vulnerability Assessment Report**: Systematic evaluation of asset vulnerabilities
+- **Threat Modeling Documentation**: Analysis of potential threat actors and attack vectors
+- **Skills**: Asset classification, vulnerability scanning, threat intelligence
+
+### Course 6: Detection and Response
+- **Incident Response Documentation**: Procedures for detecting and responding to security incidents
+- **Alert Analysis Reports**: Investigation and documentation of security alerts
+- **Skills**: Incident detection, response workflows, security event analysis
+
 ---
 
 ## 🛠️ Technical Skills Demonstrated
@@ -69,17 +87,30 @@ cybersec-foundations-portfolio/
 - Security hardening techniques
 - Protocol-level security understanding
 
+**System Administration**
+- Linux command-line operations
+- File permissions and user management
+- SQL database querying for security
+
+**Threat Management**
+- Vulnerability assessment
+- Threat modeling and analysis
+- Asset classification and protection
+
+**Incident Response**
+- Security event detection
+- Incident documentation and analysis
+- Response procedure development
+
 **Documentation & Communication**
 - Incident documentation
 - Technical writing for non-technical stakeholders
 - Security assessment reporting
 
-**Upcoming Skills** (Courses 4-9)
-- Linux system administration
-- SQL for security analysis
+**Upcoming Skills** (Courses 7-9)
 - Python automation for security tasks
 - SIEM tools and log analysis
-- Incident detection and response
+- Career readiness and capstone project
 
 ---
 
@@ -87,16 +118,16 @@ cybersec-foundations-portfolio/
 
 This portfolio tracks my progression through industry-standard cybersecurity concepts:
 
-1. **Foundation Building** (Courses 1-3): Security principles, risk frameworks, network fundamentals
-2. **Technical Tooling** (Courses 4-5): Command-line proficiency, database querying, vulnerability management
-3. **Active Defense** (Courses 6-7): Threat detection, incident response, security automation
+1. **Foundation Building** (Courses 1-3): Security principles, risk frameworks, network fundamentals ✅
+2. **Technical Tooling** (Courses 4-5): Command-line proficiency, database querying, vulnerability management ✅
+3. **Active Defense** (Courses 6-7): Threat detection, incident response, security automation 🔄
 4. **Career Readiness** (Courses 8-9): Interview preparation, capstone project demonstrating integrated skills
 
 ---
 
 ## 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sahil-mahmood)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kaifisahil)
 
 **Open to opportunities in:** Security Analyst roles, SOC Analyst positions, Junior Cybersecurity positions
 
@@ -113,7 +144,7 @@ This portfolio tracks my progression through industry-standard cybersecurity con
 ## 🎓 Certificate Program
 
 **Google Cybersecurity Professional Certificate** (Coursera)  
-*Expected Completion: [Add your target date]*
+*Expected Completion: February 9, 2026.*
 
 This 9-course program covers:
 - Security frameworks and controls
@@ -125,4 +156,4 @@ This 9-course program covers:
 
 ---
 
-*Last Updated: November 2025*
+*Last Updated: February 2026*
